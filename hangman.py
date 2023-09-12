@@ -1,7 +1,7 @@
 import string
 import random
 from words import words
-from visual import lives_visual_dict
+from visuals import lives_visual_dict
 
 
 
